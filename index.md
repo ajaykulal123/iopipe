@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Subdomain takeover
 
 You can use the [editor on GitHub](https://github.com/ajaykulal123/iopipe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
